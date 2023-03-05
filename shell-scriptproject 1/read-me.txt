@@ -1,0 +1,3 @@
+BY this shell script we can report the uses of AWS in the work and cron it by crontab
+
+Thank you
